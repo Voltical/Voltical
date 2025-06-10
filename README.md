@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/kcJUX5A.gif" alt="Intro">
+</p>
+
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
